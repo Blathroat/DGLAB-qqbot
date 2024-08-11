@@ -1,0 +1,5 @@
+# 使用前请将此文件改名为config.yaml
+appid: ""                          # qqbot的appid
+secret: ""                         # qqbot的secret key
+ip_addr: "ws://192.168.1.1:5678"   # 本机公网或局域网地址，端口不改
+pic_token: ""                      # sm.ms的令牌，用于存储二维码图片
