@@ -1,8 +1,6 @@
 # DGLAB-qqbot使用文档
 
----
 
-杂鱼~就这么喜欢挨电吗~
 
 ## 主要功能
 
@@ -12,14 +10,16 @@
 
 ## 1.配置环境
 
-使用python3.10.0
+使用python3.10.0，如需虚拟环境请自行配置
 ~~~ 
 pip install -r requirements.txt 
 ~~~
 
 ## 2.配置qqbot服务
 
-本程序使用qq官方提供的PythonSDK进行编写，文档详见 https://bot.q.qq.com/wiki/
+本程序使用qq官方提供的PythonSDK及PyDGLab-WS库进行编写
+
+文档详见 https://bot.q.qq.com/wiki/ 及 https://pydglab-ws.readthedocs.io
 
 ## 3.配置sm.ms服务
 
