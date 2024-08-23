@@ -19,6 +19,8 @@ pip install -r requirements.txt
 
 本程序使用qq官方提供的PythonSDK及PyDGLab-WS库进行编写
 
+使用前需于qq开放平台（ https://bot.q.qq.com/open ）注册并获取appid及secret key
+
 文档详见 https://bot.q.qq.com/wiki/ 及 https://pydglab-ws.readthedocs.io
 
 ## 3.配置sm.ms服务
